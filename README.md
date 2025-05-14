@@ -1,4 +1,5 @@
 ## Maria Luisa Ribeiro Martins Latta
-| Informatica 5A - Turma A |
-email: maria.latta2@estudante.ifms.edu.br |
+Análise e Desenvolvimento de Sistemas - IFMS | Técnico em Informática - IFMS |
+email institucional: maria.latta2@estudante.ifms.edu.br |
+email pessoal: malulatta@gmail.com |
 RA: 046773

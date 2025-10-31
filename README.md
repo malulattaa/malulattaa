@@ -43,15 +43,6 @@ Tenho interesse em evoluir na área de Tecnologia da Informação, com foco em d
       src="https://custom-icon-badges.demolab.com/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"
     />
 </a>
-&nbsp;
-<a href="https://wa.me/5567992191224" target="_blank">
-<img 
-      alt="WhatsApp"
-      title="Fale comigo no WhatsApp"
-      src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"
-    />
-</a>
-
 </p>
 
 ---

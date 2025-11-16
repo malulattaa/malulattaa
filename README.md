@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Maria Luisa Ribeiro Martins Latta
 **`Estudante de Análise e Desenvolvimento de Sistemas `**
 
-Me chamo Maria Luisa, tenho 19 anos e sou natural do Mato Grosso do Sul. Sou formada como Técnica em Informática pelo IFMS - Campus Três Lagoas e atualmente curso Análise e Desenvolvimento de Sistemas. Desde 2024, atuo como Jovem Aprendiz na Petrobras, desenvolvendo habilidades em gestão administrativa, organização e suporte corporativo.
+Me chamo Maria Luisa, tenho 19 anos e sou natural do Mato Grosso do Sul. Sou formada como Técnica em Informática pelo IFMS - Campus Três Lagoas e atualmente curso Análise e Desenvolvimento de Sistemas, além de atuar como jovem aprendiz em análise de dados na Eldorado Brasil.
 
 Tenho interesse em evoluir na área de Tecnologia da Informação, com foco em desenvolvimento de sistemas, análise de dados e soluções digitais que unam tecnologia, acessibilidade e impacto social. Sou movida por conhecimento, inovação e desafios que envolvam resolver problemas reais e otimizar processos com tecnologia.
 

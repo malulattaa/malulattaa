@@ -1,9 +1,11 @@
 # 👩🏻‍💻 Maria Luisa Ribeiro Martins Latta
 **`Estudante de Análise e Desenvolvimento de Sistemas `**
 
-Me chamo Maria Luisa, tenho 19 anos e sou natural do Mato Grosso do Sul. Sou formada como Técnica em Informática pelo IFMS - Campus Três Lagoas e atualmente curso Análise e Desenvolvimento de Sistemas, além de atuar como jovem aprendiz em análise de dados na Eldorado Brasil.
+Estudante de Análise e Desenvolvimento de Sistemas, formada em Técnico em Informática e atualmente atuando como Data Analytics Apprentice na área de Colheita Florestal da Eldorado Brasil.
 
-Tenho interesse em evoluir na área de Tecnologia da Informação, com foco em desenvolvimento de sistemas, análise de dados e soluções digitais que unam tecnologia, acessibilidade e impacto social. Sou movida por conhecimento, inovação e desafios que envolvam resolver problemas reais e otimizar processos com tecnologia.
+Tenho interesse em tecnologia, análise de dados e melhoria de processos, buscando constantemente desenvolver habilidades que conectem dados, operações e inovação. Possuo experiência com rotinas administrativas, acompanhamento operacional, apontamento de produção e suporte a análises voltadas para operações florestais.
+
+Tenho familiaridade com Python, GitHub, HTML, CSS e pacote Office, além de interesse crescente em análise de dados, desenvolvimento de sistemas e soluções tecnológicas aplicadas ao negócio
 
 ### 📚 Atualmente estudando
 - React.js e desenvolvimento front-end moderno  
